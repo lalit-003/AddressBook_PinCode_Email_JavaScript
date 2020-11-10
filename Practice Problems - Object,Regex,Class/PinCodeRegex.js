@@ -25,7 +25,7 @@ class PinCodeRegex
     
     toString()
     {
-        return "Pincode = "+this.pinCode;
+        return "Pincode : "+this.pinCode;
     }
 }
 
